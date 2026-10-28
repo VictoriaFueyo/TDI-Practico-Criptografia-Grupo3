@@ -1,2 +1,2 @@
-# TDI---Práctico-Criptografía-
-TDI - Práctico Criptografía (Grupo 3)
+# TDI Práctico Criptografía
+(Grupo 3) Alvarez Santiago, Correa Juliana, Fueyo Victoria, Mazzei Luca y Mingues Mariana
